@@ -1,0 +1,8 @@
+0 Cardboard
+1 Food Organics
+2 Glass
+3 Metals
+4 Paper
+5 Plastic
+6 Textile Trash
+7 vegetation
